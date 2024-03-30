@@ -1,0 +1,2 @@
+# TyNEAT
+NEAT Tinygrad implementation
